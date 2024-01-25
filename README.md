@@ -23,7 +23,7 @@ Expense Tracker is a simple GUI application built with Tkinter in Python that al
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##To-Do (2024-01-25)
+## To-Do (2024-01-25)
 
 - Fix date format validation
 - Add currency, bank account, exchange rate field
